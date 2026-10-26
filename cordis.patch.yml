@@ -1,0 +1,3 @@
+- insert:
+    - id: collapsible-answer
+      name: '@local/dsh-collapsible-answer'
